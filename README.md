@@ -53,4 +53,4 @@
         <strong>Dove Music</strong> redefines the music streaming experience by addressing common pain points like advertisements and lack of offline functionality. 
         Its sleek design and advanced features create a highly engaging platform for music enthusiasts, making it a strong contender in the music streaming app market.
     </p>
-<h2> Developed by: Yash Anand</h2>
+<h2> Developed by: Yash Anand </h2>
